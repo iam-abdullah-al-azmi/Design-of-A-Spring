@@ -1,13 +1,12 @@
-# Concept Design Prototype of a Helical Spring
+# A Tapered Conical Coil Spring Modeled as a Continuous Helical Sweep
 
 ## Summary
 
----
+A spring stores energy when it is deformed and releases it when the load is removed, which is why it appears in everything from pens to vehicle suspensions. Most springs have a constant coil diameter, but a conical spring tapers from a wide base to a narrower top. This project explores how such a tapered coil can be modeled computationally.
 
-## Design Motivation
+The model is a single wire that winds around a vertical axis in about ten turns. The coil diameter becomes smaller toward the top, which gives the spring its cone-like outline, and the free end of the wire is left exposed at the top turn. The coils are evenly spaced, so the shape looks smooth and continuous from the base to the top. The main challenge was to control the taper and the spacing together, because a small change in one of them changes the height and the overall shape of the spring.
 
-| Name | Image |
-| :--: | :---: |
+The spring was developed as a computational model in SolidWorks. The views below show the coils from every side, along with a section view that shows the circular cross-section of the wire. This prototype is a base concept design that can be developed further into a spring with defined material properties and load behavior.
 
 ---
 
@@ -26,11 +25,32 @@
 
 ---
 
-## Technologies Used
+## Software Used
 
 | Purpose |               Name                |
 | :-----: | :-------------------------------: |
 | Design  | SolidWorks 2024 (Student Version) |
+
+---
+
+## Tools Used
+
+| No  | Name |
+| :-: | :--: |
+| 01  |      |
+| 02  |      |
+| 03  |      |
+| 04  |      |
+| 05  |      |
+| 06  |      |
+| 07  |      |
+| 08  |      |
+| 09  |      |
+| 10  |      |
+
+---
+
+## Image of the Tool Used
 
 ---
 
