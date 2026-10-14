@@ -50,7 +50,7 @@ The spring was developed as a computational model in SolidWorks. The views below
 
 ---
 
-## Image of the Tool Used
+## Feature Tree
 
 ---
 
