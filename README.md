@@ -82,3 +82,9 @@ The spring was created as a geometric helix, so no loads or materials are define
 [^1]: [Compression spring applications](https://www.lesjofors.com/sv/teknik/insights/compression-spring-application/)
 
 [^2]: [US6543757B2 - Helical compression spring for a vehicle suspension](https://patents.google.com/patent/US6543757)
+
+---
+
+## Acknowledgements
+
+Special thanks to the [EasyCAD Solutions](https://www.youtube.com/@EasyCADSolutions) YouTube channel for the SolidWorks tutorials that helped in creating this design.
